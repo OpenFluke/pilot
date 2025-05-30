@@ -2,7 +2,8 @@ package experiments
 
 import (
 	"fmt"
-	"pilot"
+
+	"github.com/openfluke/pilot"
 )
 
 type MNISTDatasetStage struct {
