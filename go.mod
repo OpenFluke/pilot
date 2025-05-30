@@ -1,3 +1,3 @@
-module github.com/OpenFluke/pilot
+module github.com/openfluke/pilot
 
 go 1.24.1
